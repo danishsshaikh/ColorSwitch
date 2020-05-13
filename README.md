@@ -9,3 +9,5 @@ https://play.google.com/store/apps/details?id=com.colorswitch.switch2
 Took me the Whole day to build this,
 I followed the tutorial "Become an iOSAndroid Game Developer with Unity 2017"
 It was really a good tutorial, id rate it as 8/10.
+
+> Replica - [Google Drive Link](https://drive.google.com/open?id=1Q6HtHhS5Is_vrJ2FNnXGV8JgZod_iBLb)
